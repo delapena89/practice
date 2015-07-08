@@ -1,0 +1,16 @@
+ul
+{
+    list-style-type: none;
+}
+p {
+  color: purple;
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.hello {
+  font-size: 30px;
+}
